@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\ReverseString\obj\Debug\ReverseString.pdb

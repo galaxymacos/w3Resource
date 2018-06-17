@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\bin\Debug\CompareTwoStrings.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\bin\Debug\CompareTwoStrings.pdb
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\obj\Debug\CompareTwoStrings.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\obj\Debug\CompareTwoStrings.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\obj\Debug\CompareTwoStrings.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CompareTwoStrings\obj\Debug\CompareTwoStrings.pdb

@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\obj\Debug\CopyStrings.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\obj\Debug\CopyStrings.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\bin\Debug\CopyStrings.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\bin\Debug\CopyStrings.pdb
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\obj\Debug\CopyStrings.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\CopyStrings\obj\Debug\CopyStrings.pdb

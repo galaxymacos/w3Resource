@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\bin\Debug\FindstringLength.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\bin\Debug\FindstringLength.pdb
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\obj\Debug\FindstringLength.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\obj\Debug\FindstringLength.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\obj\Debug\FindstringLength.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\FindstringLength\obj\Debug\FindstringLength.pdb

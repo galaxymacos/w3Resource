@@ -1,0 +1,6 @@
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\bin\Debug\TotalWordInString.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\bin\Debug\TotalWordInString.pdb
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\obj\Debug\TotalWordInString.csprojAssemblyReference.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\obj\Debug\TotalWordInString.csproj.CoreCompileInputs.cache
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\obj\Debug\TotalWordInString.exe
+C:\Users\galax\RiderProjects\W3Resource\w3ResourceString\TotalWordInString\obj\Debug\TotalWordInString.pdb
